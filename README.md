@@ -31,21 +31,26 @@ A next-generation personal AI assistant project evolving from my earlier AI deve
 
 ---
 
-## 💻 Technical Interests
+## 🛠️ Tech Stack
 
-* Python
-* Java
-* SQL / MySQL
-* Git & GitHub
-* Software Development
-* Artificial Intelligence
-* Large Language Models
-* AI Agents
-* Automation
-* Software Architecture
-* Testing & Debugging
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### AI & Intelligent Systems
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-4285F4?style=for-the-badge)
+
+### Software Engineering
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-6A1B9A?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Testing-25A162?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-FF9800?style=for-the-badge)
 
 ## 📚 Currently Learning
 
