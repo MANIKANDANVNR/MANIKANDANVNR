@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mani Manikandan
+# 👋 Hi, I'm Manikandan
 
 ### Software Developer | Python | AI & Intelligent Systems
 
